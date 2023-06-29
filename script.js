@@ -1,5 +1,9 @@
 const Spaces = {
     livingRoom: "Living Roomz",
+    skyscraper: "Skyscraper",
+    bunker: "Bunker",
+    museum: "Museum",
+    train: "Train",
     bedroom: "Bedroom",
     kitchen: "Kitchen",
     diningRoom: "Dining Room",
