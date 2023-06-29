@@ -1,5 +1,5 @@
 const Spaces = {
-    livingRoom: "Living Room",
+    livingRoom: "Living Roomz",
     bedroom: "Bedroom",
     kitchen: "Kitchen",
     diningRoom: "Dining Room",
